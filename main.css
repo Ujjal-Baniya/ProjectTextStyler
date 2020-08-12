@@ -44,7 +44,7 @@ input{
     font-family: 'Architects Daughter', cursive;
     position: relative;
     font-size: 20px;
-    margin-top: 50px;
+    margin-top: 40px;
     width: 450px;
     height: 30px;
     letter-spacing: 3px;
@@ -62,11 +62,13 @@ input[type=text]:focus{
 }
 h2{
     color: #00000F;
-    margin-top: 50px;
-    font-family: 'Architects Daughter', cursive;
+    padding-top: 14%;
+    padding-bottom: 0;
+    font-family: cursive;
     font-style: italic;
-    font-size: 100px;
+    font-size: 3em;
     cursor: default; 
+    margin-bottom: 0px;
 }
 
 .same:hover{
